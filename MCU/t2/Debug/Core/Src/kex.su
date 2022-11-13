@@ -1,0 +1,6 @@
+../Core/Src/kex.c:6:6:kex_uake_initA	24	static
+../Core/Src/kex.c:12:6:kex_uake_sharedB	88	static
+../Core/Src/kex.c:20:6:kex_uake_sharedA	96	static
+../Core/Src/kex.c:30:6:kex_ake_initA	24	static
+../Core/Src/kex.c:36:6:kex_ake_sharedB	120	static
+../Core/Src/kex.c:45:6:kex_ake_sharedA	128	static

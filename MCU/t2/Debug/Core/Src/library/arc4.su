@@ -1,0 +1,3 @@
+../Core/Src/library/arc4.c:42:6:arc4_setup	40	static
+../Core/Src/library/arc4.c:71:5:arc4_crypt	40	static
+../Core/Src/library/arc4.c:136:5:arc4_self_test	304	static

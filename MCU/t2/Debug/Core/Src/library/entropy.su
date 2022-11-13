@@ -1,0 +1,6 @@
+../Core/Src/library/entropy.c:39:6:entropy_init	16	static
+../Core/Src/library/entropy.c:63:5:entropy_add_source	24	static
+../Core/Src/library/entropy.c:84:5:entropy_update	104	static
+../Core/Src/library/entropy.c:109:5:entropy_update_manual	24	static
+../Core/Src/library/entropy.c:118:5:entropy_gather	160	static
+../Core/Src/library/entropy.c:152:5:entropy_func	112	static

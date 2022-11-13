@@ -1,0 +1,6 @@
+../Core/Src/library/gcm.c:57:13:gcm_gen_table	176	static
+../Core/Src/library/gcm.c:105:5:gcm_init	32	static
+../Core/Src/library/gcm.c:127:6:gcm_mult	144	static
+../Core/Src/library/gcm.c:172:5:gcm_crypt_and_tag	144	static
+../Core/Src/library/gcm.c:301:5:gcm_auth_decrypt	72	static
+../Core/Src/library/gcm.c:555:5:gcm_self_test	696	static

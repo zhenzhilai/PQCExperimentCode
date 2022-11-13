@@ -1,0 +1,7 @@
+../Core/Src/library/asn1parse.c:43:5:asn1_get_len	16	static
+../Core/Src/library/asn1parse.c:99:5:asn1_get_tag	24	static
+../Core/Src/library/asn1parse.c:114:5:asn1_get_bool	32	static
+../Core/Src/library/asn1parse.c:133:5:asn1_get_int	32	static
+../Core/Src/library/asn1parse.c:158:5:asn1_get_mpi	32	static
+../Core/Src/library/asn1parse.c:176:5:asn1_get_bitstring	32	static
+../Core/Src/library/asn1parse.c:210:5:asn1_get_sequence_of	40	static

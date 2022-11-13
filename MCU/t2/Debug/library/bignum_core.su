@@ -1,0 +1,9 @@
+C:/Users/Administrator/Desktop/stm/t2/Core/mbedtls-development/library/bignum_core.c:41:8:mbedtls_mpi_core_clz	24	static
+C:/Users/Administrator/Desktop/stm/t2/Core/mbedtls-development/library/bignum_core.c:56:8:mbedtls_mpi_core_bitlen	24	static
+C:/Users/Administrator/Desktop/stm/t2/Core/mbedtls-development/library/bignum_core.c:74:25:mpi_bigendian_to_host_c	32	static
+C:/Users/Administrator/Desktop/stm/t2/Core/mbedtls-development/library/bignum_core.c:89:25:mpi_bigendian_to_host	16	static
+C:/Users/Administrator/Desktop/stm/t2/Core/mbedtls-development/library/bignum_core.c:132:6:mbedtls_mpi_core_bigendian_to_host	32	static
+C:/Users/Administrator/Desktop/stm/t2/Core/mbedtls-development/library/bignum_core.c:162:5:mbedtls_mpi_core_read_le	40	static
+C:/Users/Administrator/Desktop/stm/t2/Core/mbedtls-development/library/bignum_core.c:186:5:mbedtls_mpi_core_read_be	40	static
+C:/Users/Administrator/Desktop/stm/t2/Core/mbedtls-development/library/bignum_core.c:216:5:mbedtls_mpi_core_write_le	40	static
+C:/Users/Administrator/Desktop/stm/t2/Core/mbedtls-development/library/bignum_core.c:253:5:mbedtls_mpi_core_write_be	48	static

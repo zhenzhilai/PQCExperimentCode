@@ -1,0 +1,5 @@
+C:/Users/Administrator/Desktop/stm/t2/Core/mbedtls-development/library/bignum_mod.c:45:5:mbedtls_mpi_mod_residue_setup	24	static
+C:/Users/Administrator/Desktop/stm/t2/Core/mbedtls-development/library/bignum_mod.c:59:6:mbedtls_mpi_mod_residue_release	16	static
+C:/Users/Administrator/Desktop/stm/t2/Core/mbedtls-development/library/bignum_mod.c:68:6:mbedtls_mpi_mod_modulus_init	16	static
+C:/Users/Administrator/Desktop/stm/t2/Core/mbedtls-development/library/bignum_mod.c:80:6:mbedtls_mpi_mod_modulus_free	16	static
+C:/Users/Administrator/Desktop/stm/t2/Core/mbedtls-development/library/bignum_mod.c:104:5:mbedtls_mpi_mod_modulus_setup	32	static

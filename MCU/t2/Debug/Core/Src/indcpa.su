@@ -1,0 +1,11 @@
+../Core/Src/indcpa.c:26:13:pack_pk	32	static
+../Core/Src/indcpa.c:46:13:unpack_pk	32	static
+../Core/Src/indcpa.c:64:13:pack_sk	16	static
+../Core/Src/indcpa.c:77:13:unpack_sk	16	static
+../Core/Src/indcpa.c:93:13:pack_ciphertext	24	static
+../Core/Src/indcpa.c:109:13:unpack_ciphertext	24	static
+../Core/Src/indcpa.c:128:21:rej_uniform	32	static
+../Core/Src/indcpa.c:168:6:pqcrystals_kyber512_ref_gen_matrix	768	static
+../Core/Src/indcpa.c:210:6:pqcrystals_kyber512_ref_indcpa_keypair	5224	static
+../Core/Src/indcpa.c:268:6:pqcrystals_kyber512_ref_indcpa_enc	7744	static
+../Core/Src/indcpa.c:326:6:pqcrystals_kyber512_ref_indcpa_dec	3096	static

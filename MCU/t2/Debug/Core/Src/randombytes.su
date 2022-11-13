@@ -1,0 +1,2 @@
+../Core/Src/randombytes.c:16:13:surf	72	static
+../Core/Src/randombytes.c:35:6:randombytes	16	static

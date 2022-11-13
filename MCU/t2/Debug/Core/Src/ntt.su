@@ -1,0 +1,4 @@
+../Core/Src/ntt.c:68:16:fqmul	16	static
+../Core/Src/ntt.c:80:6:pqcrystals_kyber512_ref_ntt	40	static
+../Core/Src/ntt.c:106:6:pqcrystals_kyber512_ref_invntt	40	static
+../Core/Src/ntt.c:139:6:pqcrystals_kyber512_ref_basemul	24	static

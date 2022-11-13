@@ -1,0 +1,8 @@
+../Core/Src/library/blowfish.c:74:17:F	24	static
+../Core/Src/library/blowfish.c:93:13:blowfish_enc	40	static
+../Core/Src/library/blowfish.c:122:13:blowfish_dec	40	static
+../Core/Src/library/blowfish.c:154:5:blowfish_setkey	48	static
+../Core/Src/library/blowfish.c:211:5:blowfish_crypt_ecb	32	static
+../Core/Src/library/blowfish.c:239:5:blowfish_crypt_cbc	40	static
+../Core/Src/library/blowfish.c:292:5:blowfish_crypt_cfb64	32	static
+../Core/Src/library/blowfish.c:340:5:blowfish_crypt_ctr	40	static

@@ -1,0 +1,3 @@
+../Core/Src/kem.c:23:5:pqcrystals_kyber512_ref_keypair	24	static
+../Core/Src/kem.c:51:5:pqcrystals_kyber512_ref_enc	152	static
+../Core/Src/kem.c:94:5:pqcrystals_kyber512_ref_dec	936	static

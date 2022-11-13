@@ -1,0 +1,6 @@
+../Core/Src/library/x509write.c:39:5:x509_write_pubkey_der	40	static
+../Core/Src/library/x509write.c:70:5:x509_write_key_der	40	static
+../Core/Src/library/x509write.c:115:5:x509_write_name	40	static
+../Core/Src/library/x509write.c:150:13:x509_hash	24	static
+../Core/Src/library/x509write.c:181:5:x509_write_sig	32	static
+../Core/Src/library/x509write.c:207:5:x509_write_cert_req	2712	static

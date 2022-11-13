@@ -1,0 +1,12 @@
+../Core/Src/library/sha2.c:104:6:sha2_starts	8	static
+../Core/Src/library/sha2.c:137:6:sha2_process	304	static
+../Core/Src/library/sha2.c:271:6:sha2_update	32	static
+../Core/Src/library/sha2.c:319:6:sha2_finish	40	static
+../Core/Src/library/sha2.c:355:6:sha2	264	static
+../Core/Src/library/sha2.c:391:5:sha2_file	1296	static
+../Core/Src/library/sha2.c:424:6:sha2_hmac_starts	64	static
+../Core/Src/library/sha2.c:455:6:sha2_hmac_update	24	static
+../Core/Src/library/sha2.c:463:6:sha2_hmac_finish	56	static
+../Core/Src/library/sha2.c:483:6:sha2_hmac_reset	16	static
+../Core/Src/library/sha2.c:492:6:sha2_hmac	264	static
+../Core/Src/library/sha2.c:694:5:sha2_self_test	1328	static

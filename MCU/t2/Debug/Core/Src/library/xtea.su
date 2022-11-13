@@ -1,0 +1,4 @@
+../Core/Src/library/xtea.c:60:6:xtea_setup	24	static
+../Core/Src/library/xtea.c:75:5:xtea_crypt_ecb	48	static
+../Core/Src/library/xtea.c:117:5:xtea_crypt_cbc	40	static
+../Core/Src/library/xtea.c:215:5:xtea_self_test	48	static

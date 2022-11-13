@@ -1,0 +1,15 @@
+../Core/Src/main.c:226:6:OLED_hx	8	static
+../Core/Src/main.c:231:6:run_kyber	3408	dynamic
+../Core/Src/main.c:316:6:run_rsa	72	static
+../Core/Src/main.c:471:6:run_ecdsa	200	static
+../Core/Src/main.c:567:6:run_rsa2	2832	static
+../Core/Src/main.c:610:6:kyber_kex	3336	static
+../Core/Src/main.c:669:6:kyber_gen	3304	static
+../Core/Src/main.c:701:13:pack_pk	32	static
+../Core/Src/main.c:711:13:unpack_pk	32	static
+../Core/Src/main.c:721:13:pack_sk	16	static
+../Core/Src/main.c:726:13:unpack_sk	16	static
+../Core/Src/main.c:735:6:special_test	7368	static
+../Core/Src/main.c:781:5:main	16	static
+../Core/Src/main.c:858:6:SystemClock_Config	72	static
+../Core/Src/main.c:900:6:Error_Handler	0	static,ignoring_inline_asm

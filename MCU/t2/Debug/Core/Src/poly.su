@@ -1,0 +1,15 @@
+../Core/Src/poly.c:18:6:pqcrystals_kyber512_ref_poly_compress	32	static
+../Core/Src/poly.c:70:6:pqcrystals_kyber512_ref_poly_decompress	16	static
+../Core/Src/poly.c:111:6:pqcrystals_kyber512_ref_poly_tobytes	16	static
+../Core/Src/poly.c:138:6:pqcrystals_kyber512_ref_poly_frombytes	16	static
+../Core/Src/poly.c:155:6:pqcrystals_kyber512_ref_poly_frommsg	24	static
+../Core/Src/poly.c:180:6:pqcrystals_kyber512_ref_poly_tomsg	24	static
+../Core/Src/poly.c:208:6:pqcrystals_kyber512_ref_poly_getnoise_eta1	216	static
+../Core/Src/poly.c:227:6:pqcrystals_kyber512_ref_poly_getnoise_eta2	152	static
+../Core/Src/poly.c:244:6:pqcrystals_kyber512_ref_poly_ntt	16	static
+../Core/Src/poly.c:259:6:pqcrystals_kyber512_ref_poly_invntt_tomont	16	static
+../Core/Src/poly.c:273:6:pqcrystals_kyber512_ref_poly_basemul_montgomery	32	static
+../Core/Src/poly.c:290:6:pqcrystals_kyber512_ref_poly_tomont	24	static
+../Core/Src/poly.c:306:6:pqcrystals_kyber512_ref_poly_reduce	24	static
+../Core/Src/poly.c:322:6:pqcrystals_kyber512_ref_poly_add	24	static
+../Core/Src/poly.c:338:6:pqcrystals_kyber512_ref_poly_sub	24	static

@@ -1,0 +1,6 @@
+../Core/Src/cbd.c:15:17:load32_littleendian	16	static
+../Core/Src/cbd.c:37:17:load24_littleendian	16	static
+../Core/Src/cbd.c:58:13:cbd2	40	static
+../Core/Src/cbd.c:89:13:cbd3	40	static
+../Core/Src/cbd.c:110:6:pqcrystals_kyber512_ref_poly_cbd_eta1	16	static
+../Core/Src/cbd.c:121:6:pqcrystals_kyber512_ref_poly_cbd_eta2	16	static

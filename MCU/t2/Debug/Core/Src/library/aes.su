@@ -1,0 +1,7 @@
+../Core/Src/library/aes.c:488:5:aes_setkey_enc	24	static
+../Core/Src/library/aes.c:621:5:aes_setkey_dec	328	static
+../Core/Src/library/aes.c:751:5:aes_crypt_ecb	56	static
+../Core/Src/library/aes.c:899:5:aes_crypt_cbc	56	static
+../Core/Src/library/aes.c:964:5:aes_crypt_cfb128	32	static
+../Core/Src/library/aes.c:1012:5:aes_crypt_ctr	40	static
+../Core/Src/library/aes.c:1226:5:aes_self_test	528	static

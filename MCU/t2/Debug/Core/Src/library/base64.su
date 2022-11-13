@@ -1,0 +1,3 @@
+../Core/Src/library/base64.c:70:5:base64_encode	40	static
+../Core/Src/library/base64.c:133:5:base64_decode	40	static
+../Core/Src/library/base64.c:218:5:base64_self_test	152	static

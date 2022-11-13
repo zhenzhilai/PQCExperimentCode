@@ -1,0 +1,12 @@
+../Core/Src/library/sha4.c:124:6:sha4_starts	8	static
+../Core/Src/library/sha4.c:157:13:sha4_process	2560	static
+../Core/Src/library/sha4.c:229:6:sha4_update	64	static
+../Core/Src/library/sha4.c:280:6:sha4_finish	72	static
+../Core/Src/library/sha4.c:318:6:sha4	496	static
+../Core/Src/library/sha4.c:334:5:sha4_file	1528	static
+../Core/Src/library/sha4.c:367:6:sha4_hmac_starts	96	static
+../Core/Src/library/sha4.c:398:6:sha4_hmac_update	24	static
+../Core/Src/library/sha4.c:407:6:sha4_hmac_finish	88	static
+../Core/Src/library/sha4.c:427:6:sha4_hmac_reset	16	static
+../Core/Src/library/sha4.c:436:6:sha4_hmac	496	static
+../Core/Src/library/sha4.c:671:5:sha4_self_test	1592	static

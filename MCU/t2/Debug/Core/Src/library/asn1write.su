@@ -1,0 +1,9 @@
+../Core/Src/library/asn1write.c:32:5:asn1_write_len	16	static
+../Core/Src/library/asn1write.c:65:5:asn1_write_tag	16	static
+../Core/Src/library/asn1write.c:75:5:asn1_write_mpi	32	static
+../Core/Src/library/asn1write.c:108:5:asn1_write_null	24	static
+../Core/Src/library/asn1write.c:121:5:asn1_write_oid	32	static
+../Core/Src/library/asn1write.c:142:5:asn1_write_algorithm_identifier	40	static
+../Core/Src/library/asn1write.c:166:5:asn1_write_int	32	static
+../Core/Src/library/asn1write.c:196:5:asn1_write_printable_string	32	static
+../Core/Src/library/asn1write.c:218:5:asn1_write_ia5_string	32	static

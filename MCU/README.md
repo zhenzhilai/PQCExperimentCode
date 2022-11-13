@@ -1,4 +1,5 @@
 Code for MCU experiments
 #
-'t2': codes \n
+'t2': codes
+#
 '103C8': MCU board
